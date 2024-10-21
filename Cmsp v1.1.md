@@ -48,7 +48,7 @@ Este projeto está licenciado sob a Licença Creative Commons Attribution-NonCom
 Para dúvidas ou suporte, entre em contato:
 
 - **Autor:** iUnknown
-- **Discord:** [Entre no nosso Discord!](https://discord.gg/DWKb32QKkJ)
+- **Discord:** [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DWKb32QKkJ)
 
 ```js
 // ==UserScript==
