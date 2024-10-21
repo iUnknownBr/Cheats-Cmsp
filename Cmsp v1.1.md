@@ -49,7 +49,7 @@ Este projeto está licenciado sob a Licença Creative Commons Attribution-NonCom
 Para dúvidas ou suporte, entre em contato:
 
 - **Autor:** iUnknown
-- **Discord:** [Entre no nosso Discord!](https://discord.gg/DWKb32QKkJ)
+- **Discord:** <a href="https://discord.gg/DWKb32QKkJ"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 
 ```js
 // ==UserScript==
