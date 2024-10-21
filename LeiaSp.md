@@ -1,4 +1,4 @@
- <a href="#"><img src="https://komarev.com/ghpvc/?username=tskbrasil&style=for-the-badge&label=Views:&color=white"/></a>
+ <a href="#"><img src="https://komarev.com/ghpvc/?username=tskbrasil&style=for-the-badge&label=Views:&color=ff69b4"/></a>
 # LeiaCheat - Script de Automação para Plataforma de Leitura
 
 O LeiaCheat é um script de automação desenvolvido para facilitar a navegação em plataformas de leitura online. Este script oferece uma série de funcionalidades para melhorar a experiência do usuário durante sessões de leitura prolongadas.
