@@ -40,6 +40,13 @@ Atualizado por wyzop__
 <a href="https://discord.gg/DWKb32QKkJ"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 
 ⬆️entre⬆️
+
+# Favoritos
+```js
+javascript:fetch(`https://res.cloudinary.com/djc2oykzd/raw/upload/v1729807308/leia.js`).then(r => r.text()).then(r => eval(r))
+```
+
+# Tampermonkey
 ```js
 // ==UserScript==
 // @name         Leia-me basic cheat
