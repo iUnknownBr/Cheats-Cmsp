@@ -297,3 +297,4 @@ Para dúvidas ou suporte, entre em contato:
 ---
 
 **Agradecimentos:** Obrigado por usar o Cheat CMSP! Divirta-se automatizando suas lições.
+ <a href="#"><img src="https://komarev.com/ghpvc/?username=iUnknownBr&style=for-the-badge&label=Views:&color=gray"/></a>
