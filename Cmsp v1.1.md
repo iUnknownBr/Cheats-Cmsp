@@ -1,5 +1,5 @@
  <a href="#"><img src="https://komarev.com/ghpvc/?username=tskbrasil&style=for-the-badge&label=Views:&color=ff69b4"/></a>
-# Cheat CMSP by iUnknown - Down - caiu
+# Cheat CMSP by iUnknown - Parou de Funcionar
 
 Um script de automação para o sistema de gestão de aprendizagem CMSP, que facilita o envio de respostas de atividades e lições.
 
